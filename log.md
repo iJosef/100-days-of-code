@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,10 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+### Day 01: February 20, 2020
+
+**Today's Progress**: Learnt about Sorting algorithms, Binary search algorithm
+
+**Thoughts:** I learnt about sorting algorithms, got better understanding of time and space complexity of algorithms. And also how Binary search algorithm works. All these was made possible with the help of the SoloLearn App. Didn't really do much coding today.
